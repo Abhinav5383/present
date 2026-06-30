@@ -1,0 +1,6 @@
+main {
+    min-block-size: 100svb;
+    display: grid;
+    padding: 1rem;
+    background-color: rebeccapurple;
+}

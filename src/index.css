@@ -1,0 +1,6 @@
+@import "./assets/normalize.css";
+
+html {
+    color-scheme: dark;
+    accent-color: dodgerblue;
+}
