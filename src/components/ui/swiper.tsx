@@ -1,4 +1,4 @@
-import { createEffect, createSignal, For } from "solid-js";
+import { createSignal, For } from "solid-js";
 import { createStore } from "solid-js/store";
 import type { Slide } from "~/types";
 
